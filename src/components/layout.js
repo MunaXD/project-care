@@ -7,6 +7,7 @@ import Header from './header'
 import Footer from './footer'
 
 import 'semantic-ui-css/semantic.min.css'
+import '@fortawesome/fontawesome-free/css/all.css'
 import './layout.css'
 
 const Layout = ({ children }) => (

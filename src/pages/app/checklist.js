@@ -4,7 +4,7 @@ import {Link} from 'gatsby'
 import Layout from '../../components/layout'
 
 const Checklist = () => (<Layout>
-  <div className="ui text container">
+  <div style={{margin: '50px'}}className="ui text container">
     <h1 className="ui header">Checklist</h1>
 
     <div class="ui form">
@@ -82,7 +82,7 @@ const Checklist = () => (<Layout>
     <div class="ui inverted red segment">
       <div class="ui header">This Child Qualifies for State Protection</div>
       <p>
-        <strong>Immediately call 1121</strong>
+        <strong>Immediately call 1121</strong> {}
         and report this child to the Child Protection and Welfare Bureau immediately! They can:
         <ol>
           <li>House, clothe, feed, school, and provide medical care for the child</li>
@@ -91,23 +91,24 @@ const Checklist = () => (<Layout>
         </ol>
       </p>
     </div>
-    <div class="ui inverted yellow segment">
+    <div class="ui inverted orange segment">
       <div class="ui header">You May Still Save More Children</div>
       <p>
-        <strong>You have evidence that the person exploiting this child is nearby.</strong>
+        <strong>You have evidence that the person exploiting this child is nearby.</strong> {}
         There may be more children in need of your help!</p>
-      <p>Report the person exploiting the children to the police by calling 15 immediately! This is a severe crime and
-        <em>you</em>
+      <p>Report the person exploiting the children to the police by calling 15 immediately! This is a severe crime and {}
+        <em>you</em> {}
         are likely the only one with evidence.</p>
     </div>
     <div class="ui segment">
       <div class="ui header">You Cannot Help This Child Under the PNDC</div>
-      <p>Unfortunately, you cannot help this child under the rules of the
-        <a href="http://punjablaws.gov.pk/laws/472.html">Punjab Destitute and Neglected Children Act 2004</a>
+      <p>Unfortunately, you cannot help this child under the rules of the {}
+        <a href="http://punjablaws.gov.pk/laws/472.html">Punjab Destitute and Neglected Children Act 2004</a> {}
         (PNDC), because:</p>
       <ul>
         <li>This incident did not take place in Punjab, Pakistan. The PNDC was enacted by the Punjab Assembly, a body that can only govern Punjab, Pakistan.</li>
-        <li>You do not have sufficient child.</li>
+        <li>You do not have sufficient evidence that the child qualifies as a "destitute and neglected child".</li>
+        <li>This child is too old. The PNDC only protects children under the age of 15.</li>
       </ul>
     </div>
   </div>

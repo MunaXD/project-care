@@ -4,7 +4,7 @@ import {Link} from 'gatsby'
 import Layout from '../../components/layout'
 
 const Interview = () => (<Layout>
-  <div className="ui text container">
+  <div style={{margin: '50px'}} className="ui text container">
     <h1 className="ui header">Interview</h1>
     <p>
       <strong>Important!</strong> {}
@@ -18,7 +18,7 @@ const Interview = () => (<Layout>
         <strong> must </strong>
         record your conversation with the child.</li>
     </ol>
-    <p>Building a rapport will help the child open up faster. Never give the child money, but instead:</p>
+    <p><i class="lightbulb icon"></i>Building a rapport will help the child open up faster. Never give the child money, but instead:</p>
     <ul>
       <li>Offer them food</li>
       <li>Tell them your name</li>
@@ -195,10 +195,7 @@ const Interview = () => (<Layout>
         </div>
       </div>
     </div>
-
-    <div class="ui buttons">
-      <Link className="ui yellow button" to="/app/checklist">Finish Interview</Link>
-    </div>
+    <Link style={{marginTop: '50px'}} className="ui blue floated right button" to="/app/checklist">Finish Interview</Link>
   </div>
 </Layout>)
 
