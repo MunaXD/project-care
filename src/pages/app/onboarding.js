@@ -16,8 +16,6 @@ class Onboarding extends Component {
     this.toggleFreely      = this.toggleFreely.bind(this);
     this.toggleOwned       = this.toggleOwned.bind(this);
     this.toggleRecorder    = this.toggleRecorder.bind(this);
-    this.canContnue        = this.canContnue.bind(this);
-
   }
 
   toggleConvenience() {
