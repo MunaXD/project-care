@@ -1,3 +1,5 @@
+**Update: Please see our [brochure](https://github.com/amingilani/project-care/blob/master/brochure.pdf)**
+
 ## Inspiration
 
 See a child begging on the streets? Would you give them 20 Rs. or would you rather give them a future?
