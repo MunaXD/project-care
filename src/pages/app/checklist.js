@@ -106,7 +106,7 @@ class Checklist extends Component {
 
         report = (
           <div class="ui segment">
-            <div class="ui header">You Cannot Help This Child Under the PNDC</div>
+            <div class="ui header">This Child Does Not Qualify for Help Under the PNDC</div>
             <p>Unfortunately, you cannot help this child under the rules of the {}
               <a href="http://punjablaws.gov.pk/laws/472.html">Punjab Destitute and Neglected Children Act 2004</a> {}
               (PNDC), because of one of the following:</p>
