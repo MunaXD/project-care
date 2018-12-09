@@ -1,6 +1,6 @@
 **Update: Please see our [brochure](https://github.com/amingilani/project-care/blob/master/brochure.pdf)**
 
-**Update: Please see our [presentation](https://docs.google.com/presentation/d/1rnUQBsd9M6GIVHcbjvY9pL_Q88-oTwQZbFL9u9GGKp8/edit?usp=sharing)**
+**Update: Please see our [presentation](https://github.com/amingilani/project-care/blob/master/slides.pdf)**
 
 # Project C.A.R.E
 
