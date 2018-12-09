@@ -66,7 +66,8 @@ of how it ranks in the hackathon.
 
 ## What we learned
 
-We're wonderful friends and we make a great time.
+We're wonderful friends and we make a great team. We also learnt how to network, pitch, gamify our apps, and
+we made a lot of new friends during the hackathon as well.
 
 ## What's next for Project C.A.R.E
 
