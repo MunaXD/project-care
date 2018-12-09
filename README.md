@@ -35,21 +35,43 @@ established which addresses the issues like custody and legal reunification of t
 
 With the Project C.A.R.E App, you can navigated through a set of instructions that you can check off and take steps to have the child reported and further take actions against the child's handler.
 
-
-
-
-
-
 ## What it does
+
+Project C.A.R.E is a web application that helps responsible citizens report children that
+they encounter begging on the streets. It guides them through a set of questions to ask, and the
+appropriate actions to take to file a strong complaint, that the Child Protection & Welfare Bureau
+can use to take custody of and ultimately save the child.
 
 ## How we built it
 
+We built is using React.js optimized for fast prototyping via Gatsby.js. It took us
+about 40% of our time planning the application itself, before we started coding. It
+was stressful at times, but we persevered and finished it.
+
 ## Challenges we ran into
 
-The time constaint
+The time constraint is always a problem at hackathons. We started hoping to build packaged
+iOS and Android applications with inbuilt recording capabilities that would render reports, and
+give us leaderboards, and analytics but because of time constraints we built a client-side web application
+that works with a large number of devices, but was fast to make.
+
+We hoped to create a back-end, but ultimately with only one technical engineer, that became
+a challenge.
+
 
 ## Accomplishments that we're proud of
 
+The app works, it's intuitive, it's beautiful, and we believe it'll be used regardless
+of how it ranks in the hackathon.
+
 ## What we learned
 
+We're wonderful friends and we make a great time.
+
 ## What's next for Project CARE
+
+When we find time again, we'll work on adding:
+- A backend
+- Bundle and upload iOS and Android apps
+- Add in-app recording capabilities
+- Create leaderboards and incentivization programs
