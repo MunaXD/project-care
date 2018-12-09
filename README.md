@@ -2,7 +2,7 @@
 
 See a child begging on the streets? Would you give them 20 Rs. or would you rather give them a future?
 After traveling and returning back to Pakistan, we realized that children begging on the streets is _not_
-normal. Only in Pakistan are these future doctors, engineers, and entreprenuers ignored.
+normal. Only in Pakistan are these future doctors, engineers, and entreprenuers — being ignored.
 
 We wanted to help eliminate this terrible practice, but imagine our surprise when we discovered that
 the law already exists to curb it. This SDG Hackathon gave us the ability to use our technology for good.
@@ -33,7 +33,7 @@ established which addresses the issues like custody and legal reunification of t
 
 ### This is a social problem, and YOU can fix it
 
-With the Project C.A.R.E App, you can navigated through a set of instructions that you can check off and take steps to have the child reported and further take actions against the child's handler.
+With the Project C.A.R.E App, you can navigate through a set of instructions that you can check off and take steps to have the child reported and further take actions against the child's handler.
 
 ## What it does
 
