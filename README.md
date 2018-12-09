@@ -78,3 +78,12 @@ When we find time again, we'll work on adding:
 - Create leaderboards and incentivization programs
 - Funding
 - Support from Government programs and NGOs
+
+
+## LICENSE
+
+© All content is copyright [Amin Gilani](https://amin.gilani.me), [Sulaiman Khan](https://www.linkedin.com/in/mohsulaimankhan/), and [Izza Gilani](https://www.linkedin.com/in/izzashahid-gilani/), 2018.
+
+All original content imagery is released under a [Creative Commons Attribution-NonCommercial 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/)
+
+All code is released under the [AGPL v3](https://www.gnu.org/licenses/agpl.txt).
