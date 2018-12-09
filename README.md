@@ -75,3 +75,5 @@ When we find time again, we'll work on adding:
 - Bundle and upload iOS and Android apps
 - Add in-app recording capabilities
 - Create leaderboards and incentivization programs
+- Funding
+- Support from Government programs and NGOs
