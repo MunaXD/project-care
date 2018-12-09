@@ -1,5 +1,11 @@
 **Update: Please see our [brochure](https://github.com/amingilani/project-care/blob/master/brochure.pdf)**
 
+**Update: Please see our [presentation](https://docs.google.com/presentation/d/1rnUQBsd9M6GIVHcbjvY9pL_Q88-oTwQZbFL9u9GGKp8/edit?usp=sharing)**
+
+# Project C.A.R.E
+
+Project C.A.R.E is a crowd-sourced effort to eradicate child-begging.
+
 ## Inspiration
 
 See a child begging on the streets? Would you give them 20 Rs. or would you rather give them a future?
