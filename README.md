@@ -1,97 +1,55 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+## Inspiration
 
-Kick off your project with this default boilerplate ([live demo](https://gatsby-starter-default-demo.netlify.com/)). This barebones starter ships with the main Gatsby configuration files you might need. 
+See a child begging on the streets? Would you give them 20 Rs. or would you rather give them a future?
+After traveling and returning back to Pakistan, we realized that children begging on the streets is _not_
+normal. Only in Pakistan are these future doctors, engineers, and entreprenuers ignored.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+We wanted to help eliminate this terrible practice, but imagine our surprise when we discovered that
+the law already exists to curb it. This SDG Hackathon gave us the ability to use our technology for good.
 
-## 🚀 Quick start
+As a citizen of this country, and as a human-being you must ask yourself: **Why are there children still begging on the streets?**
 
-1.  **Create a Gatsby site.**
+### There are Laws
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+> 36/36A "If a person employs a child for begging or causes a child to beg"...or "employs or incites a child to sell goods with the intention of begging"..."he shall be punished with imprisonment for a term which may extend to five years"..."with fine which may extend to one hundred thousand rupees"
 
-    ```sh
-    # create a new Gatsby site using the default starter
-    npx gatsby new my-default-starter
-    ```
+> 24 "A child protection officer may take into custody a destitute and neglected child and produce him along with the complaint before a court within twenty four hours of taking the child into such custody"
 
-1.  **Start developing.**
+> “‘protection’ means shelter, maintenance, education, healthcare and well-being of a destitute and neglected child…”
 
-    Navigate into your new site’s directory and start it up.
+— [_The Punjab Destitute And Neglected Children Act 2004_](http://punjablaws.gov.pk/laws/472.html)
 
-    ```sh
-    cd my-default-starter/
-    gatsby develop
-    ```
+### There is an Organization
 
-1.  **Open the source code and start editing!**
+> In order to provide care, rehabilitation, education and
+training to the destitute and neglected children, Government of the Punjab established Child Protection and Welfare Bureau in March, 2004.
 
-    Your site is now running at `http://localhost:8000`!
-    
-    *Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).*
-    
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-    
-## 🧐 What's inside?
+> Not only this but a child protection court has also been
+established which addresses the issues like custody and legal reunification of the children with their parents.
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+>A child helpline has also been set up which provides guidance, help and coordination for their rescue and protective custody.
 
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    ├── README.md
-    └── yarn.lock
+— [The Child Protection & Welfare Bureau](https://cpwb.punjab.gov.pk/)
 
-  1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.  
-  
-  2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
-  
-  3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
-  
-  4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
-  
-  5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
-  
-  6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
-  
-  7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
-  
-  8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
-  
-  9.  **`LICENSE`**: Gatsby is licensed under the MIT license.
-  
-  10.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
-  
-  11.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
-  
-  12.  **`README.md`**: A text file containing useful reference information about your project.
-  
-  13.  **`yarn.lock`**: [Yarn](https://yarnpkg.com/) is a package manager alternative to npm. You can use either yarn or npm, though all of the Gatsby docs reference npm.  This file serves essentially the same purpose as `package-lock.json`, just for a different package management system.
+### This is a social problem, and YOU can fix it
 
-## 🎓 Learning Gatsby
+With the Project C.A.R.E App, you can navigated through a set of instructions that you can check off and take steps to have the child reported and further take actions against the child's handler.
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
 
--   **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
--   **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+
+## What it does
+
+## How we built it
+
+## Challenges we ran into
+
+The time constaint
+
+## Accomplishments that we're proud of
+
+## What we learned
+
+## What's next for Project CARE
