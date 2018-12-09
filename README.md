@@ -68,7 +68,7 @@ of how it ranks in the hackathon.
 
 We're wonderful friends and we make a great time.
 
-## What's next for Project CARE
+## What's next for Project C.A.R.E
 
 When we find time again, we'll work on adding:
 - A backend
