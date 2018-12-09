@@ -37,6 +37,10 @@ established which addresses the issues like custody and legal reunification of t
 
 With the Project C.A.R.E App, you can navigate through a set of instructions that you can check off and take steps to have the child reported and further take actions against the child's handler.
 
+## SDG Goal
+
+The primary SDG Goal we focus on is [Goal 11: Sustainable cities and communities](http://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-11-sustainable-cities-and-communities.html), but this also applies to: [Goal 3: Good health and well-being](http://www.undp.org/content/undp/en/home/sustainable-development-goals/goal-3-good-health-and-well-being.html)
+
 ## What it does
 
 Project C.A.R.E is a web application that helps responsible citizens report children that
