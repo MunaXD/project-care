@@ -15,7 +15,7 @@ const Footer = ({siteTitle}) => (
           © All content is copyright <a href="https://amin.gilani.me">Amin Gilani</a>, <a href="https://www.linkedin.com/in/mohsulaimankhan/">Sulaiman Khan</a>, and <a href="https://www.linkedin.com/in/izzashahid-gilani/">Izza Gilani</a>, 2018.
           </p>
           <p>
-          All original content imagery is released under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0.</a> <br />
+          All original content and imagery is released under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0.</a> <br />
           All code is released under the <a href="https://www.gnu.org/licenses/agpl.txt">AGPL v3</a>.
           </p>
       </div>
